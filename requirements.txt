@@ -19,4 +19,3 @@ seaborn>=0.13.0
 # Interactive Notebook Environment & Demo
 jupyter>=1.0.0
 ipykernel>=6.20.0
-streamlit>=1.30.0
